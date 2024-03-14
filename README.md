@@ -15,6 +15,14 @@ Welcome to the Operating System Programs Repository! This collection houses vari
 >Perform basic arithametic operation <br>
 File name ```Cal.sh```
   
+
+### Program 5 - ```Process Scheduling```
+> Different Types are :
+> 1) SJF
+> 2) FJFC
+> 3) Priority scheduling
+> 4) Round Robin
+
 </p>
 
 <br>

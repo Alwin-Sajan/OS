@@ -18,11 +18,10 @@ File name ```Cal.sh```
 
 ### Program 5 - ```Process Scheduling```
 > Different Types are :
-> 1) SJF
-> 2) FJFC
-> 3) Priority scheduling
-> 4) Round Robin
->   File name- ```Round_Robin.c```
+> 1) SJF - ```SJF.c```
+> 2) FJFC - ```FJFC.c```
+> 3) Priority scheduling - ```Priority.. c```
+> 4) Round Robin - ```Round_Robin.c```
 
 </p>
 

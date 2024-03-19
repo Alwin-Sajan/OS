@@ -20,7 +20,7 @@ File name ```Cal.sh```
 > Different Types are :
 > 1) SJF - ```SJF.c```
 > 2) FJFC - ```FJFC.c```
-> 3) Priority scheduling - ```Priority.. c```
+> 3) Priority scheduling - ```Priority.c```
 > 4) Round Robin - ```Round_Robin.c```
 
 </p>

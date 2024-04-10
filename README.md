@@ -14,7 +14,10 @@ Welcome to the Operating System Programs Repository! This collection houses vari
 ### Program 2 - ```Calculator Program```<br>
 > Perform basic arithametic operation <br>
 File name ```Cal.sh```
- 
+
+### Program 3 - ```Linux System Calls```
+> Study of Linux System Calls<br>
+File name ```Exp3a.c  Exp3b.c  Exp3c.c```
   
 ### Program 4 - ```Inter Process Communication```
 > Use shared memory for inter process communication <br>
@@ -35,6 +38,13 @@ File name ```Poducer_consumer_Prob.c```
 ### Program 8 - ```Banker's Algorithm```
 > To simulate banker's Algorithm for deadlock avoidance<br>
 File name ```Bankers_algo.c```
+
+### Program 9 - ```Memory Allocation```
+> To simulate the following memory allocation algorithm<br>
+> a) Worst fit
+> b) Best fit
+> c) First fit <br>
+File name ```Memory_Alloc.c```
 
 </p>
 

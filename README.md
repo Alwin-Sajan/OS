@@ -12,9 +12,13 @@ Welcome to the Operating System Programs Repository! This collection houses vari
 
 
 ### Program 2 - ```Calculator Program```<br>
->Perform basic arithametic operation <br>
+> Perform basic arithametic operation <br>
 File name ```Cal.sh```
+ 
   
+### Program 4 - ```Inter Process Communication```
+> Use shared memory for inter process communication <br>
+File name ```Exp4.c```
 
 ### Program 5 - ```Process Scheduling```
 > Different Types are :
@@ -22,6 +26,15 @@ File name ```Cal.sh```
 > 2) FJFC - ```FJFC.c```
 > 3) Priority scheduling - ```Priority.c```
 > 4) Round Robin - ```Round_Robin.c```
+
+
+### Program 7 - ```Producer Consumer problem```
+> Simulate producer consumer problem using semaphores <br>
+File name ```Poducer_consumer_Prob.c```
+
+### Program 8 - ```Banker's Algorithm```
+> To simulate banker's Algorithm for deadlock avoidance<br>
+File name ```Bankers_algo.c```
 
 </p>
 

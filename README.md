@@ -46,6 +46,11 @@ File name ```Bankers_algo.c```
 > c) First fit <br>
 File name ```Memory_Alloc.c```
 
+### Program 10 - ```Page Replacement Algorithms``` 
+> To develop a C program to simulate page replacement algorithms <br>
+ a) FIFO b) LRU c) LFU<br>
+File name ```Exp10.c``` 
+
 </p>
 
 <br>

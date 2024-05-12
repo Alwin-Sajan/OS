@@ -54,7 +54,12 @@ File name ```Exp10.c```
 ### Program 11 - ```Disk Scheduling Algorithm``` 
 > To develop a C program to simulate disk scheduling algorithms <br>
  a) FCFS b) SCAN c) C-SCAN<br>
-File name ```FCFS.c   SCAN.c  C-SCAN.c```
+File name ```FCFS_DS.c   SCAN.c  C-SCAN.c```
+
+### Program 12 - ```File Allocation``` 
+> To develop a C program to simulate page replacement algorithms <br>
+ a) Sequential b) Indexed c) Linked<br>
+File name ```Seq.c   Ind.c   Linked.c```
 
 </p>
 

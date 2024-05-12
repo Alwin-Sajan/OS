@@ -49,7 +49,12 @@ File name ```Memory_Alloc.c```
 ### Program 10 - ```Page Replacement Algorithms``` 
 > To develop a C program to simulate page replacement algorithms <br>
  a) FIFO b) LRU c) LFU<br>
-File name ```Exp10.c``` 
+File name ```Exp10.c```
+
+### Program 11 - ```Disk Scheduling Algorithm``` 
+> To develop a C program to simulate disk scheduling algorithms <br>
+ a) FCFS b) SCAN c) C-SCAN<br>
+File name ```FCFS.c   SCAN.c  C-SCAN.c```
 
 </p>
 
